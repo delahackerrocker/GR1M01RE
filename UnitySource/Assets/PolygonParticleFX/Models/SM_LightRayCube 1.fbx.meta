@@ -1,16 +1,23 @@
 fileFormatVersion: 2
-guid: 219de587148d8bb41a8e255859dafe53
-timeCreated: 1556849853
+guid: 8297447ef77c7ab458f861bdd4a1885c
+timeCreated: 1588299394
 licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 21
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: FX_Sphere
+    100000: Light_Shaft_Base
+    100002: Light_Shaft_Manip
+    100004: Null
+    100006: SM_LightRay_Cube
+    100008: //RootNode
+    400000: Light_Shaft_Base
+    400002: Light_Shaft_Manip
+    400004: Null
+    400006: SM_LightRay_Cube
+    400008: //RootNode
+    4300000: SM_LightRay_Cube
     9500000: //RootNode
+    13700000: SM_LightRay_Cube
   materials:
     importMaterials: 0
     materialName: 0
@@ -33,6 +40,7 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 0
   meshes:
@@ -40,22 +48,26 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
-    weldVertices: 1
+    weldVertices: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 5
     normalImportMode: 1
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 0
   copyAvatar: 0
   humanDescription:
@@ -75,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

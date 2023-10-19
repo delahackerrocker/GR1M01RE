@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 219de587148d8bb41a8e255859dafe53
-timeCreated: 1556849853
+guid: 9617305e7e2c7094fb534b7d3afc9a58
+timeCreated: 1502255134
 licenseType: Store
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: FX_Sphere
+    4300000: SM_Wep_Ammo_BulletLarge_01
     9500000: //RootNode
   materials:
     importMaterials: 0
@@ -55,7 +55,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 5
     normalImportMode: 1
-    tangentImportMode: 3
+    tangentImportMode: 1
   importAnimation: 0
   copyAvatar: 0
   humanDescription:
@@ -73,7 +73,7 @@ ModelImporter:
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
-    skeletonHasParents: 1
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1
