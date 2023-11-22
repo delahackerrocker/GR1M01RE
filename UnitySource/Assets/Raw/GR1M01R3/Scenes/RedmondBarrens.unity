@@ -189,6 +189,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp
       objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
       propertyPath: m_Mesh
@@ -589,6 +594,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp
       objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
       propertyPath: m_Mesh
@@ -677,6 +687,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetLamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
@@ -2343,6 +2358,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
       propertyPath: m_Mesh
@@ -3557,6 +3577,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetLamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
@@ -4949,6 +4974,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack
       objectReference: {fileID: 0}
+    - target: {fileID: 7873791011666797924, guid: f73d7aab7881c3c48a5f681cd8fe58da,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8880526587354628678, guid: f73d7aab7881c3c48a5f681cd8fe58da,
         type: 3}
       propertyPath: m_Mesh
@@ -5883,6 +5913,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873791011666797924, guid: f73d7aab7881c3c48a5f681cd8fe58da,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8880526587354628678, guid: f73d7aab7881c3c48a5f681cd8fe58da,
         type: 3}
@@ -8542,6 +8577,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp
       objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
       propertyPath: m_Mesh
@@ -8857,6 +8897,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
@@ -9547,6 +9592,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873791011666797924, guid: f73d7aab7881c3c48a5f681cd8fe58da,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8880526587354628678, guid: f73d7aab7881c3c48a5f681cd8fe58da,
         type: 3}
@@ -12102,6 +12152,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack_Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687578387053419095, guid: cc1237aecf9ab55408e24e34b523df8a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3344046577678774198, guid: cc1237aecf9ab55408e24e34b523df8a,
         type: 3}
@@ -15249,6 +15304,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp
       objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
       propertyPath: m_Mesh
@@ -16589,6 +16649,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873791011666797924, guid: f73d7aab7881c3c48a5f681cd8fe58da,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8880526587354628678, guid: f73d7aab7881c3c48a5f681cd8fe58da,
         type: 3}
@@ -18370,6 +18435,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
       propertyPath: m_Mesh
@@ -18452,6 +18522,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
@@ -20458,6 +20533,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
       propertyPath: m_Mesh
@@ -21283,6 +21363,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_RatsNest_Shack_Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687578387053419095, guid: cc1237aecf9ab55408e24e34b523df8a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3344046577678774198, guid: cc1237aecf9ab55408e24e34b523df8a,
         type: 3}
@@ -30021,6 +30106,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Wall_W
       objectReference: {fileID: 0}
+    - target: {fileID: 1267993155521538491, guid: 54aeabded4795f14399fb1b34732b963,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1567567986440765318, guid: 54aeabded4795f14399fb1b34732b963,
         type: 3}
       propertyPath: m_Mesh
@@ -30143,6 +30233,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Greenhouse_Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4747694263984230465, guid: dddbd71f7360a4e49888322d7cf4ee0f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4936446714555277517, guid: dddbd71f7360a4e49888322d7cf4ee0f,
         type: 3}
@@ -30272,6 +30367,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp
       objectReference: {fileID: 0}
+    - target: {fileID: 4492578978127767414, guid: 449f4ae0fdfe1d546af101c703d97c80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4497644389217050066, guid: 449f4ae0fdfe1d546af101c703d97c80,
         type: 3}
       propertyPath: m_Mesh
@@ -30320,6 +30420,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Wall_N
+      objectReference: {fileID: 0}
+    - target: {fileID: 4114090631950600267, guid: fefc83468bad91f4e986b36b956141ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4132797306867801126, guid: fefc83468bad91f4e986b36b956141ff,
         type: 3}
@@ -30603,6 +30708,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Wall_SW
       objectReference: {fileID: 0}
+    - target: {fileID: 5271959950059037647, guid: 069ae2ec1dc57be45ab4937bb51d0db2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5295892106466102244, guid: 069ae2ec1dc57be45ab4937bb51d0db2,
         type: 3}
       propertyPath: m_Mesh
@@ -30721,6 +30831,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_OutofBounds_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569505489767801429, guid: f7bca4433d6f8f3469fab5150eb79520,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1750737961917107847, guid: f7bca4433d6f8f3469fab5150eb79520,
         type: 3}
@@ -30966,6 +31081,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_AresWeapon
       objectReference: {fileID: 0}
+    - target: {fileID: 6796320890964915312, guid: 2ea4979554f586e40bde1fd3b3f8d447,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7060353515438097842, guid: 2ea4979554f586e40bde1fd3b3f8d447,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31033,6 +31153,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack
+      objectReference: {fileID: 0}
+    - target: {fileID: 433897338612323867, guid: 41d971cab3258bc439ba304a951a3c36,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 854837093132757821, guid: 41d971cab3258bc439ba304a951a3c36,
         type: 3}
@@ -31295,6 +31420,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Correctional
       objectReference: {fileID: 0}
+    - target: {fileID: 7592939489546434340, guid: 97692e481255a8847a4aa899acbc8da6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31329,6 +31459,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_JumpHouse
+      objectReference: {fileID: 0}
+    - target: {fileID: 419657509570287697, guid: 300d7c6122ebb864d87e46227fe23b97,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1990101278663002949, guid: 300d7c6122ebb864d87e46227fe23b97,
         type: 3}
@@ -31478,6 +31613,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_OutofBounds_02
       objectReference: {fileID: 0}
+    - target: {fileID: 4440301755866262221, guid: c151fa95af594674baade1c9c5169b6d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31555,6 +31695,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_OutofBounds_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7855137227113855256, guid: 7906f34ca5d712147a3f330e1dd9f9e6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8022074599782823730, guid: 7906f34ca5d712147a3f330e1dd9f9e6,
         type: 3}
@@ -31643,6 +31788,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Greenhouse
+      objectReference: {fileID: 0}
+    - target: {fileID: 8174129705078598412, guid: 91757e417e477e04fb3e2e2eb65050a0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31734,6 +31884,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Halloweeners_Shack_Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 324893215239085769, guid: ac2029317777c334cb85f8cb354c0265,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1641130722598041293, guid: ac2029317777c334cb85f8cb354c0265,
         type: 3}
@@ -31947,6 +32102,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_Nuclear_Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 6875513719703820672, guid: 3a6dfa981c3202248a40b321d54df12e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32208,6 +32368,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Correctional_Wall
       objectReference: {fileID: 0}
+    - target: {fileID: 6090241140104167218, guid: 78a3136990e3b1542b2fe66719c874a4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6839136407905808338, guid: 78a3136990e3b1542b2fe66719c874a4,
         type: 3}
       propertyPath: m_Mesh
@@ -32326,6 +32491,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Wall_SE
       objectReference: {fileID: 0}
+    - target: {fileID: 8755302113021756776, guid: e6950d7408fc8214b81aa9008031a045,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32414,6 +32584,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_AbandonedWarehouse
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946290253971474927, guid: 01171be04ef9bff458e038f68840fb7b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32825,6 +33000,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Nuclear
       objectReference: {fileID: 0}
+    - target: {fileID: 6640642368649206205, guid: d1abd25dd6da239489bf5bd4838f3fb2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32842,6 +33022,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_LittleChiba
+      objectReference: {fileID: 0}
+    - target: {fileID: 3177881297468151426, guid: 345ff9ca29976f3458f36086c6b4c0eb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7521869567775303419, guid: 345ff9ca29976f3458f36086c6b4c0eb,
         type: 3}
@@ -33028,6 +33213,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_Wall_E
       objectReference: {fileID: 0}
+    - target: {fileID: 3638304315331333262, guid: ab58ce6a957241646bc04050dd97a692,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4159886183697690657, guid: ab58ce6a957241646bc04050dd97a692,
         type: 3}
       propertyPath: m_Mesh
@@ -33106,6 +33296,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_JackalsLantern
       objectReference: {fileID: 0}
+    - target: {fileID: 1987499557827949578, guid: 32e887bdf5434c04a81952cb74dd367d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3023037743751795631, guid: 32e887bdf5434c04a81952cb74dd367d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -33161,6 +33356,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1250499635}
+    - target: {fileID: 6302689446554137396, guid: 32e887bdf5434c04a81952cb74dd367d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 447c279ca2448684889ebe62533a044b, type: 2}
     - target: {fileID: 9009331631469388974, guid: 32e887bdf5434c04a81952cb74dd367d,
         type: 3}
       propertyPath: m_Mesh
@@ -33312,6 +33512,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedmondBarrens_OutofBounds_03
       objectReference: {fileID: 0}
+    - target: {fileID: 5548903320741540133, guid: 4ce109f47fb2a1341a7049520591acdf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5709681098444201390, guid: 4ce109f47fb2a1341a7049520591acdf,
         type: 3}
       propertyPath: m_Mesh
@@ -33389,6 +33594,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedmondBarrens_StokersCoffin
+      objectReference: {fileID: 0}
+    - target: {fileID: 4402494581834645858, guid: 8dabba3219d7f7843b0f68ca011d5622,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4451111064620457509, guid: 8dabba3219d7f7843b0f68ca011d5622,
         type: 3}
